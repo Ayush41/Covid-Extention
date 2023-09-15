@@ -3,10 +3,7 @@
   padding: 0px;
   margin: 0%;
 }
-/* style.css */
-/* style.css */
 
-/* Body styles */
 body {
   font-family: Arial, sans-serif;
   margin: 0;
@@ -27,8 +24,12 @@ h2 {
   color: #333;
   font-size: 24px;
   margin-top: 0;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+  padding: 10px;
+  background-color: #fff;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
 }
-
 /* Table styles */
 table {
   border-collapse: collapse;
