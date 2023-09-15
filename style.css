@@ -1,0 +1,67 @@
+* {
+  /* background-color: rgb(225, 229, 230); */
+  padding: 0px;
+  margin: 0%;
+}
+/* style.css */
+/* style.css */
+
+/* Body styles */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f2f2f2;
+}
+
+/* Container styles */
+.container {
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #fff;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+/* Heading styles */
+h2 {
+  color: #333;
+  font-size: 24px;
+  margin-top: 0;
+}
+
+/* Table styles */
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th,
+td {
+  padding: 10px;
+}
+
+th {
+  background-color: #f2f2f2;
+  font-weight: bold;
+}
+
+tr:nth-child(even) {
+  background-color: #f9f9f9;
+}
+
+/* ID styles */
+#date {
+  font-weight: bold;
+}
+
+#areaName {
+  color: blue;
+}
+
+#latestBy {
+  color: green;
+}
+
+#deathNew {
+  color: red;
+}
